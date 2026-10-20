@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello
+Mostly working on private repos so you wont see that fancy green graph, what a shame :( 
 
 <!--
 **bard0-dev/bard0-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
